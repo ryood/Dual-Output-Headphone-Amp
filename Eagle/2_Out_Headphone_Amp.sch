@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="dots" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
@@ -12658,7 +12658,7 @@ DIN A4, landscape with location and doc. field</description>
 <part name="IC2" library="burr-brown" deviceset="OPA2134" device="P"/>
 <part name="IC3" library="burr-brown" deviceset="OPA2134" device="P"/>
 <part name="JP1" library="pinhead" deviceset="PINHD-1X2" device="" value="IN-L"/>
-<part name="JP2" library="pinhead" deviceset="PINHD-1X2" device=""/>
+<part name="JP2" library="pinhead" deviceset="PINHD-1X2" device="" value="IN-R"/>
 <part name="C1" library="rcl" deviceset="C-EU" device="050-045X075" value="1.0u"/>
 <part name="R1" library="rcl" deviceset="R-EU_" device="0207/7" value="100k"/>
 <part name="R2" library="rcl" deviceset="R-EU_" device="0207/7" value="47"/>
