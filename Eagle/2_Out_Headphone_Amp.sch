@@ -12662,11 +12662,11 @@ DIN A4, landscape with location and doc. field</description>
 <part name="JP1" library="pinhead" deviceset="PINHD-1X2" device="" value="IN-L"/>
 <part name="JP2" library="pinhead" deviceset="PINHD-1X2" device="" value="IN-R"/>
 <part name="C1" library="rcl" deviceset="C-EU" device="050-045X075" value="1.0u"/>
-<part name="R1" library="rcl" deviceset="R-EU_" device="0207/7" value="100k"/>
+<part name="R1" library="rcl" deviceset="R-EU_" device="0207/2V" value="100k"/>
 <part name="R2" library="rcl" deviceset="R-EU_" device="0207/7" value="47"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="R3" library="rcl" deviceset="R-EU_" device="0207/7" value="2k"/>
-<part name="R4" library="rcl" deviceset="R-EU_" device="0207/7" value="1k"/>
+<part name="R4" library="rcl" deviceset="R-EU_" device="0207/2V" value="1k"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="R5" library="rcl" deviceset="R-EU_" device="0207/7" value="47"/>
 <part name="P-1" library="supply1" deviceset="V-" device=""/>
@@ -12690,11 +12690,11 @@ DIN A4, landscape with location and doc. field</description>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="C9" library="rcl" deviceset="C-EU" device="050-045X075" value="1.0u"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
-<part name="R6" library="rcl" deviceset="R-EU_" device="0207/7" value="100k"/>
+<part name="R6" library="rcl" deviceset="R-EU_" device="0207/2V" value="100k"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
-<part name="R7" library="rcl" deviceset="R-EU_" device="0207/7" value="2k"/>
-<part name="R8" library="rcl" deviceset="R-EU_" device="0207/7" value="1k"/>
+<part name="R7" library="rcl" deviceset="R-EU_" device="0207/2V" value="2k"/>
+<part name="R8" library="rcl" deviceset="R-EU_" device="0207/2V" value="1k"/>
 <part name="R9" library="rcl" deviceset="R-EU_" device="0207/7" value="47"/>
 <part name="R10" library="rcl" deviceset="R-EU_" device="0207/7" value="47"/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
